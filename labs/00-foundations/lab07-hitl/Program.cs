@@ -7,9 +7,9 @@
 #:package Microsoft.Extensions.AI.OpenAI@10.5.0
 #:package ModelContextProtocol@1.2.0
 #:package DotNetEnv@3.1.1
-#:package OpenTelemetry@1.15.2
-#:package OpenTelemetry.Exporter.OpenTelemetryProtocol@1.15.2
-#:package OpenTelemetry.Extensions.Hosting@1.15.2
+#:package OpenTelemetry@1.15.3
+#:package OpenTelemetry.Exporter.OpenTelemetryProtocol@1.15.3
+#:package OpenTelemetry.Extensions.Hosting@1.15.3
 #:package Microsoft.Extensions.Logging@10.0.0
 #:package Microsoft.Extensions.Logging.Console@10.0.0
 #:package Microsoft.Extensions.DependencyInjection@10.0.0
